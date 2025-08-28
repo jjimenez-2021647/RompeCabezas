@@ -77,7 +77,7 @@
             <div class="instructions">
                 <h3>INSTRUCCIONES</h3>
                 <p>Haz clic en una imagen adyacente al espacio para moverlo.</p>
-                <p>Tu objetivo es ordenar todas las piezas para formar la imagen completa del Hollow Knight antes de que se agote el tiempo.</p>
+                <p>Tu objetivo es ordenar todas las piezas para formar la imagen completa de Berserk antes de que se agote el tiempo.</p>
                 <p class="challenge-text">¡Tienes 3 minutos para completar el desafío!</p>
             </div>
         </div>
